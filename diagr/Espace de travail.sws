@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{E063414A-E959-497E-8AD7-4AAA40E7D611}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="sequence.moo"/>
+		<Model Expanded="Yes" ID="{E063414A-E959-497E-8AD7-4AAA40E7D611}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="sequence.moo"/>
+		<Model Expanded="Yes" ID="{E063414A-E959-497E-8AD7-4AAA40E7D611}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="sequence.moo"/>
+		<Model Expanded="Yes" ID="{E063414A-E959-497E-8AD7-4AAA40E7D611}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="supp post .moo"/>
+		<Model Expanded="Yes" ID="{E063414A-E959-497E-8AD7-4AAA40E7D611}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="consulter annance.moo"/>
+		<Model Expanded="Yes" ID="{A1278954-944F-4EA6-9C66-1FFE18E4238D}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cases.moo"/>
+		<Model Expanded="Yes" ID="{A1278954-944F-4EA6-9C66-1FFE18E4238D}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cases.moo"/>
+		<Model Expanded="Yes" ID="{DE2CE695-9D49-47D3-894C-C69A75D0824F}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="series.moo"/>
+		<Model Expanded="Yes" ID="{DE2CE695-9D49-47D3-894C-C69A75D0824F}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="series.moo"/>
+		<Model Expanded="Yes" ID="{A1278954-944F-4EA6-9C66-1FFE18E4238D}" Name="ModeleOrienteObjet_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="cases.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
